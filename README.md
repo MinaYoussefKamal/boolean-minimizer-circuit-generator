@@ -6,6 +6,9 @@
 
 An Electronic Design Automation (EDA) desktop application designed to automate Boolean logic minimization and physical circuit generation. It bridges the gap between mathematical logic synthesis and schematic design by instantly converting constraints into optimized logic expressions and ANSI/IEEE standard circuit diagrams.
 
+<img width="1916" height="1001" alt="project screenshot" src="https://github.com/user-attachments/assets/8c16194e-9bba-416f-9701-d4fef21a73e3" />
+
+
 ## ✨ Core Features
 
 *   **Multi-Modal Input System:**
@@ -27,7 +30,7 @@ An Electronic Design Automation (EDA) desktop application designed to automate B
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/MinaYoussefKamal/boolean-minimizer-circuit-generator.git](https://github.com/MinaYoussefKamal/boolean-minimizer-circuit-generator.git)
+   git clone https://github.com/MinaYoussefKamal/boolean-minimizer-circuit-generator.git
    cd boolean-minimizer-circuit-generator
    ```
 
@@ -54,11 +57,7 @@ An Electronic Design Automation (EDA) desktop application designed to automate B
 *   **Model-View-Controller (MVC) Pattern:** The application distinctly separates the `CustomTkinter` UI views from the `SymPy` math models, coordinated by a central `KMapSolverApp` class.
 *   **Dynamic Font & Coordinate Scaling:** The circuit rendering engine features dynamic scaling, automatically adjusting wire spacing and font sizes to prevent overlapping when rendering complex 4-variable, 5-input gates.
 
-## 🤝 Contributors
-
-*   **[Your Name / Team Name]** - *Lead Developer & Architect*
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
