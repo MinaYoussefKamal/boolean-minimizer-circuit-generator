@@ -1,4 +1,4 @@
-# LogicSynth EDA: Interactive K-Map & Circuit Generator ⚡
+# Boolean Minimizer & Logic Generator ⚡
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-brightgreen.svg)
