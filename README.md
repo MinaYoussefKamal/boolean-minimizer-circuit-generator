@@ -6,7 +6,8 @@
 
 An Electronic Design Automation (EDA) desktop application designed to automate Boolean logic minimization and physical circuit generation. It bridges the gap between mathematical logic synthesis and schematic design by instantly converting constraints into optimized logic expressions and ANSI/IEEE standard circuit diagrams.
 
-> **Note:** Insert a screenshot of your main GUI here: `![Main GUI](link_to_image.png)`
+>![Main GUI](link_<img width="1916" height="1001" alt="project screenshot" src="https://github.com/user-attachments/assets/5c0ac452-4a01-4f94-92e1-911853cb31ad" />
+to_image.png)`
 
 ## ✨ Core Features
 
